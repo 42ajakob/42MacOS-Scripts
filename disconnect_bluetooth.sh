@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to blueutils and MacAddress of devices
-blueutil_path="~/.brew/bin/blueutil"
+blueutil_path="/Users/$USER/.brew/bin/blueutil"
 devices_mac=("XX-XX-XX-XX-XX-XX" "XX-XX-XX-XX-XX-XX" "XX-XX-XX-XX-XX-XX")
 
 # Function to disconnect devices
